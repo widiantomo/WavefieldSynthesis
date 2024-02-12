@@ -1,0 +1,5 @@
+filename='aa.wav';
+
+[y,Fs,bits] = wavread('filename')
+
+if 
